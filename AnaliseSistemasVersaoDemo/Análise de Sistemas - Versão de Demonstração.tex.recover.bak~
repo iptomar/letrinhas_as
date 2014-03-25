@@ -1,0 +1,26 @@
+% !TeX spellcheck = pt_BR
+% !TeX encoding = UTF-8
+	\title{Análise de Sistemas\\ Versão - Demo  \\ Letrinhas}
+\author{Grupo de Análise de Sistemas}
+
+
+
+\begin{document}
+
+	\maketitle %titulo
+	\newpage
+	\tableofcontents %indice
+	\newpage %pagina nova
+
+	 \section{Introdução}%resumo - introdução
+		\subsection{Visão Geral do Sistema}
+		 
+		
+	
+		\subsection{Objetivos}
+		O principal objetivo do Forântula é facilitar o diálogo e o intercâmbio entre atores locais, nacionais e internacionais. Recorrendo a práticas recentes, este serve
+		como espaço de partilha, onde o utilizador pode adquirir e contribuir com informação sobre tarântulas.
+		
+		
+		
+		\end{document}

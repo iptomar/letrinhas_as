@@ -1,0 +1,91 @@
+% !TeX spellcheck = pt_BR
+% !TeX encoding = UTF-8
+\documentclass[a4paper,titlepage]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage{hyperref}
+\usepackage{listingsutf8}
+\usepackage{float}
+\usepackage{color}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{graphicx}
+% \usepackage{indentfirst}
+\usepackage{epstopdf}
+\usepackage{eurosym}
+\usepackage{tabularx}
+\usepackage{svg}
+%\usepackage{mathtools}
+%\usepackage{amsmath}
+
+% Uma forma de usar caracteres especiais nos ficheiros de código-fonte.
+\lstset{literate=
+	{á}{{\'a}}1 {é}{{\'e}}1 {í}{{\'i}}1 {ó}{{\'o}}1 {ú}{{\'u}}1
+	{Á}{{\'A}}1 {É}{{\'E}}1 {Í}{{\'I}}1 {Ó}{{\'O}}1 {Ú}{{\'U}}1
+	{à}{{\`a}}1 {è}{{\'e}}1 {ì}{{\`i}}1 {ò}{{\`o}}1 {ò}{{\`u}}1
+	{À}{{\`A}}1 {È}{{\'E}}1 {Ì}{{\`I}}1 {Ò}{{\`O}}1 {Ò}{{\`U}}1
+	{ä}{{\"a}}1 {ë}{{\"e}}1 {ï}{{\"i}}1 {ö}{{\"o}}1 {ü}{{\"u}}1
+	{Ä}{{\"A}}1 {Ë}{{\"E}}1 {Ï}{{\"I}}1 {Ö}{{\"O}}1 {Ü}{{\"U}}1
+	{â}{{\^a}}1 {ê}{{\^e}}1 {î}{{\^i}}1 {ô}{{\^o}}1 {û}{{\^u}}1
+	{Â}{{\^A}}1 {Ê}{{\^E}}1 {Î}{{\^I}}1 {Ô}{{\^O}}1 {Û}{{\^U}}1
+	{œ}{{\oe}}1 {Œ}{{\OE}}1 {æ}{{\ae}}1 {Æ}{{\AE}}1 {ß}{{\ss}}1
+	{ç}{{\c c}}1 {Ç}{{\c C}}1 {ø}{{\o}}1 {å}{{\r a}}1 {Å}{{\r A}}1
+	{õ}{{\~{o}}}1
+	{ã}{{\~a}}1
+	{€}{{\EUR}}1 {£}{{\pounds}}1
+}
+
+\hypersetup{
+    colorlinks = false,
+    hidelinks
+}
+
+\lstdefinestyle{masm} {
+	belowcaptionskip=1\baselineskip,
+	breaklines=true,
+	breakatwhitespace=true,
+	xleftmargin=\parindent,
+	extendedchars=true,
+	language=[x86masm]{assembler},
+	captionpos=b,
+	numbersep=5pt,
+	basicstyle=\ttfamily\footnotesize,
+	keywordstyle=\bfseries\color{blue},
+	commentstyle=\itshape\color{CadetBlue},
+	identifierstyle=\color{black},
+	frame=single,
+	tabsize=2
+}
+	\title{Análise de Sistemas\\ Versão - Demo  \\ Letrinhas}
+\author{Grupo de Análise de Sistemas}
+
+
+
+\begin{document}
+
+	\maketitle %titulo
+	\newpage
+	\tableofcontents %indice
+	\newpage %pagina nova
+
+	 \section{Introdução}%resumo - introdução
+		\subsection{Visão Geral do Sistema}
+		 O sistema descrito nesta análise é uma aplicação para tablet e respetivo sistema de informação. O sistema permite a avaliação da fluência na leitura dos alunos. 
+		 	\subsubsection{Aplicação para tablet}
+			Criação de uma aplicação em tablets de sistema operativo android, que permita a avaliação da fluência na leitura dos alunos.  
+			
+			\subsubsection{Sistema de informação}
+			O sistema de informação fornece suporte à aplicação em android, recorrendo a uma base de dados e formulários web.
+				
+		\subsection{Objetivos}
+			O letrinhas tem como objetivo facilitar a avaliação dos alunos no processo de aprendizagem da leitura.\\
+			
+			 Recorrendo a dispositivos móveis de sistema operativo android o aluno terá acesso a uma aplicação onde estarão disponiveis vários textos para leitura com diferentes graus de dificuldade, que serão posteriormente submetidos por indicação do professor.\\
+			 
+			  O sistema de informação será apenas disponibilizado aos professores e tem como objectivo o fácil acesso aos textos lidos e submetidos pelos alunos, para que desta forma possam ser avaliados de forma eficiente e eficaz. Guardando assim um registo por aluno.
+			
+		
+		
+		
+		
+		\end{document}

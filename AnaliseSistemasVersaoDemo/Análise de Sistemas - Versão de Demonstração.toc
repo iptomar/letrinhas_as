@@ -1,0 +1,6 @@
+\select@language {portuguese}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Vis\IeC {\~a}o Geral do Sistema}{2}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Aplica\IeC {\c c}\IeC {\~a}o para tablet}{2}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Sistema de informa\IeC {\c c}\IeC {\~a}o}{2}{subsubsection.1.1.2}
+\contentsline {subsection}{\numberline {1.2}Objetivos}{2}{subsection.1.2}
