@@ -1,0 +1,7 @@
+Remover timer da vista do aluno.
+Vista de Auto-avaliação:
+-colocada pós submissão
+-pode ver todas as submissões daquele teste
+Velocidade de reprodução do som ajustável (necessidades especiais)
+Retirar nome da escola e do aluno do ecrã de leitura
+
