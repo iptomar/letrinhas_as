@@ -256,142 +256,455 @@
 						\end{table} 
 \newpage
 					\subsubsection{Efectuar teste}
+				
+				
+				\begin{figure}[h]
+					\centering
+					\includegraphics[width=0.8\linewidth]{./diagramasAnaliseSistemas/RealizarTeste}
+					\caption{Diagrama de actividades do C.U. realizar teste}
+					\label{fig:RealizarTeste}
+					\end{figure}
 
+					
 
 
 				\newpage
 				\begin {table}[h]
 				\begin{tabular}{|p{2cm} p{10cm}|}
-					\hline Nome: & CaU Corrigir Teste \\ 
+					\hline Nome: & CaU Efectuar teste \\ 
 					\hline Âmbito: & Letrinhas - APP \\ 
 					\hline Finalidade: & Correcção do teste. \\ 
-					\hline Atores: & Professor \\ 
-				    \hline Pré-condições: & Deverão existir testes submetidos pelo  aluno.
-					O utilizador deverá escolher a  Escola, escolher o professor, escolher a turma, seleccionar o aluno. \\ 
+					\hline Atores: & Aluno \\ 
+				    \hline Pré-condições: & Deverão existir testes submetidos pelo  professor passíveis de realização.
+					O professor deverá ter preparado a realização do teste. \\ 
 				    \hline Sequência típica dos eventos: &  					
 					O utilizador deve:
 				    \begin{enumerate}
-				    	\item	Seleccionar Corrigir Teste;
-						\item	Seleccionar Disciplina;
-						\item	Seleccionar o tipo de teste;
-						\item	Selecciona o teste a corrigir entre os realizados;
-						\item	Ouve a gravação do aluno;
-						\item	Corrige;
-						\item	Valida a correcção.
+				    	\item	Efectuar a avaliação consoante o tipo de teste;
+						\item	Submeter este para avaliação.
 				    \end{enumerate} \\ 
   				    \hline Sequências alternativas e extensões: & 
   				    \begin{enumerate}			    	
-  				    	\item[4a.] O utilizador cancela a correcção do teste.
+  				    	\item[1a.] Se disponíveis poderá ouvir demonstrações;
+						\item[2b.] O utilizador não submete a avaliação, cancelando a realização do teste.
+
   				    \end{enumerate}
   				     \\ 
   				    \hline Requisitos especiais: & Nenhum.\\ 
-  				    \hline Aspectos em aberto: & Nenhum. \\
+  				    \hline Aspectos em aberto: & Existem vários tipos de teste, cada um com algumas especificidades, estas não são descritas nesta tabela.  \\
 					\hline 
 				\end{tabular}
-				\caption{Caso de utilização corrigir teste.}
+				\caption{Caso de utilização efectuar teste.}
 			\end{table} 
 			
 		\newpage				
-	
-	
+			\subsubsection{Efectuar Auto-avaliação}
+						
+				\begin{figure}[h]
+\centering
+\includegraphics[width=0.8\linewidth]{./diagramasAnaliseSistemas/EfectuarAutoAvaliacao}
+\caption{Diagrama de actividade do CaU efectuar Auto-avaliação}
+\label{fig:EfectuarAutoAvaliacao}
+\end{figure}
 
+		
+							
+		
+		
+						\newpage
+						\begin {table}[h]
+						\begin{tabular}{|p{2cm} p{10cm}|}
+							\hline Nome: & CaU Efectuar Auto-avaliação \\ 
+							\hline Âmbito: & Letrinhas - APP \\ 
+							\hline Finalidade: & O ctor aluno poderá consultar testes previamente realizados por si, podendo desta forma avaliar o seu progresso.  \\ 
+							\hline Atores: & Aluno \\ 
+						    \hline Pré-condições: & DDeverão existir testes realizados pelo aluno já submetidos. \\ 
+						    \hline Sequência típica dos eventos: &  					
+							O utilizador deve:
+						    \begin{enumerate}
+						    	\item	Escolher quais os testes que pretende rever.
+								\item	O utilizador carrega no botão de finalizar quando estiver satisfeito, avançando para outro teste.
 
+						    \end{enumerate} \\ 
+		  				    \hline Sequências alternativas e extensões: & 
+		  				    \begin{enumerate}			    	
+		  				    	\item[1a.] Se disponíveis poderá ouvir demonstrações, comparando com as suas submissões;
+								\item[1b.] O utilizador não selecciona nenhum teste e aborta a operação.
+								\item[2a.] O utilizador não seleccionou mais testes, finalizando assim a sequencia típica de eventos.
 
-
-
-
-
-
-	
+		
+		  				    \end{enumerate}
+		  				     \\ 
+		  				    \hline Requisitos especiais: & Nenhum.\\ 
+		  				    \hline Aspectos em aberto: & Existem vários tipos de teste, cada um com algumas especificidades, estas não são descritas nesta tabela.  \\
+							\hline 
+						\end{tabular}
+						\caption{Caso de utilização efectuar Auto-avaliação.}
+					\end{table} 
 	\newpage
-		
-		
-		
-		\section{Modelo do Domínio}
-		\subsection{Visão geral}
-		
-		[mapa de conceitos, i.e., Diagrama de Classes do domínio do problema; classes com atributos  evidentes e associações. Poderá incluir operações. ] 
-		
-		\subsection{Opções tomadas}
-		[Poderá ser necessário acrescentar um texto a descrever o Modelo do Domínio] 
+	\subsection{Descrição dos Casos de Utilização - Sistema de Informação}
+	
+	\subsubsection{Criar Novo Teste}
+							
+	\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\linewidth]{./diagramasAnaliseSistemas/BackOfficecriartestedeLeitura}
+\caption{Diagrama de Actividades do CaU criar novo teste.(teste de leitura)}
+\label{fig:BackOfficecriartestedeLeitura}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\linewidth]{./diagramasAnaliseSistemas/testemultimedia}
+\caption{Diagrama de Actividades do CaU criar novo teste.(teste de multimedia)}
+\label{fig:testemultimedia}
+\end{figure}
+
+
+
+								
+			
+			
+							\newpage
+							\begin {table}[h]
+							\begin{tabular}{|p{2cm} p{10cm}|}
+								\hline Nome: & CaU Criar novo teste \\ 
+								\hline Âmbito: & Letrinhas - SI \\ 
+								\hline Finalidade: & Os atores envolvidos poderão criar testes, submetendo-os posteriormente para a Aplicação.  \\ 
+								\hline Atores: & Professor, Administrador \\ 
+							    \hline Pré-condições: & O utilizador deverá estar autenticado.\\ 
+							    \hline Sequência típica dos eventos: &  					
+								O utilizador deve:
+							    \begin{enumerate}
+							    	\item	Seleccionar o tipo de teste que pretende submeter para avaliação;
+									\item	Preencher os devidos campos;
+									\item	Submeter este.
+
+	
+							    \end{enumerate} \\ 
+			  				    \hline Sequências alternativas e extensões: & 
+			  				    \begin{enumerate}			    	
+			  				    	\item[2a.] Consoante o tipo de teste o utilizador deverá submeter conteúdo multimédia.
+									\item[3a.] O utilizador não submete o teste, cancelando a criação teste.
+
+	
+			
+			  				    \end{enumerate}
+			  				     \\ 
+			  				    \hline Requisitos especiais: & Nenhum.\\ 
+			  				    \hline Aspectos em aberto: & Existem vários tipos de teste, cada um com algumas especificidades, estas não são descritas nesta tabela.  \\
+								\hline 
+							\end{tabular}
+							\caption{Caso de utilização efectuar criar novo teste.}
+						\end{table} 
+\newpage	
+	\subsubsection{Criar registo de professor}
+			\begin {table}[h]
+									\begin{tabular}{|p{2cm} p{10cm}|}
+										\hline Nome: & CaU Criar registo de professor \\ 
+										\hline Âmbito: & Letrinhas - SI \\ 
+										\hline Finalidade: & Os actores envolvidos poderão, adicionar professores.  \\ 
+										\hline Atores: & Administrador \\ 
+									    \hline Pré-condições: & O administrador deverá estar autenticado.\\ 
+									    \hline Sequência típica dos eventos: &  					
+										O utilizador deve:
+									    \begin{enumerate}
+									    \item	Seleccionar “Adicionar Professor”;
+										\item	Preencher os devidos  campos (nome, email, telef, username, pin, escola  e fotografia);
+										\item	Pressionar adicionar.
 
 		
+			
+									    \end{enumerate} \\ 
+					  				    \hline Sequências alternativas e extensões: & 
+					  				    \begin{enumerate}			    	
+					  				   \item[ 3a.] O utilizador não submete o professor, cancelando a inserção deste no sistema.
 		
+			
+					
+					  				    \end{enumerate}
+					  				     \\ 
+					  				    \hline Requisitos especiais: & Nenhum.\\ 
+					  				    \hline Aspectos em aberto: & Nenhum  \\
+										\hline 
+									\end{tabular}
+									\caption{Caso de utilização efectuar criar registo de professor}
+								\end{table} 
+	
+	
+	
+
+\newpage
+	\subsubsection{Criar registo de aluno}
+			\begin {table}[h]
+									\begin{tabular}{|p{2cm} p{10cm}|}
+										\hline Nome: & CaU Criar registo de aluno\\ 
+										\hline Âmbito: & Letrinhas - SI \\ 
+										\hline Finalidade: & Os actores envolvidos poderão, adicionar alunos.  \\ 
+										\hline Atores: & Administrador \\ 
+									    \hline Pré-condições: & O administrador deverá estar autenticado.\\ 
+									    \hline Sequência típica dos eventos: &  					
+										O utilizador deve:
+									    \begin{enumerate}
+									    \item	Seleccionar “Adicionar Aluno”;
+										\item	Preencher os devidos  campos (nome, escola, turma e fotografia);
+										\item	Pressionar adicionar.
+
+
 		
+			
+									    \end{enumerate} \\ 
+					  				    \hline Sequências alternativas e extensões: & 
+					  				    \begin{enumerate}			    	
+					  				  \item[3a.] O utilizador não submete o aluno, cancelando a inserção deste no sistema.
+		
+			
+					
+					  				    \end{enumerate}
+					  				     \\ 
+					  				    \hline Requisitos especiais: & Nenhum.\\ 
+					  				    \hline Aspectos em aberto: & Nenhum  \\
+										\hline 
+									\end{tabular}
+									\caption{Caso de utilização efectuar criar registo de aluno}
+								\end{table} 
+	
+	
+	
+
+\newpage
+
+	\subsubsection{Criar escola}
+			\begin {table}[h]
+									\begin{tabular}{|p{2cm} p{10cm}|}
+										\hline Nome: & CaU Criar escola\\ 
+										\hline Âmbito: & Letrinhas - SI \\ 
+										\hline Finalidade: & Os actores envolvidos poderão, inserir escolas no sistema.\\ 
+										\hline Atores: & Administrador \\ 
+									    \hline Pré-condições: & O administrador deverá estar autenticado.\\ 
+									    \hline Sequência típica dos eventos: &  					
+										O utilizador deve:
+									    \begin{enumerate}
+									    \item	Seleccionar “Adicionar Escola”;
+										\item	Preencher os devidos  campos (nome, morada, fotografia);
+										\item	Pressionar adicionar.
+
+
+
+		
+			
+									    \end{enumerate} \\ 
+					  				    \hline Sequências alternativas e extensões: & 
+					  				    \begin{enumerate}			    	
+					  				  \item[3a.] O utilizador não submete a escola, cancelando a inserção desta no sistema.
+		
+			
+					
+					  				    \end{enumerate}
+					  				     \\ 
+					  				    \hline Requisitos especiais: & Nenhum.\\ 
+					  				    \hline Aspectos em aberto: & Nenhum  \\
+										\hline 
+									\end{tabular}
+									\caption{Caso de utilização efectuar criar escola}
+								\end{table} 
+			
 		
 		\newpage
 		
 		\section{Modelo de dados persistente}
+		
+		\subsection{Modelo de dados persistente - Sistema de Informação}
+		
+		
+		
+		\begin{figure}[h]
+			\centering
+			\includegraphics[width=1.2\linewidth]{./diagramasAnaliseSistemas/modeloDeDadosPersistente}
+			\caption{Modelo de dados Persistente.}
+			\label{fig:modeloDeDadosPersistente}
+		\end{figure}
 
-			
-		
-		
-		\subsection{Descrição do modelo de dados}
-		
-		\begin{table}[h]
-		\begin{tabular}{|c|c|p{4cm}|p{4cm}|}
-			\hline Nome da tabela & Private Keys & Foreign Keys & Referente à tabela \\ 
-			\hline User\_table & userId &  &  \\ 
-			\hline Post\_table & postId & userId, threadId & User\_table, Thread\_table  \\ 
-			\hline Thread\_table & threadId & sectionId & Section\_table \\ 
-			\hline Section\_table & sectionId & areaId, sectionParentId & Area\_table, Section\_table \\ 
-			\hline Area\_table & areaId &  &  \\ 
-			\hline Message\_table & messageId & UserId\_rementente, UserId\_destinatario & User\_table \\ 
-			\hline Subsection\_table & sectionId, subsectionId & sectionId, subsectionId & Section\_table \\
-			\hline 
-		\end{tabular} 
-		\caption{Descrição do modelo de dados}
-		\end{table}
-		
-		
-		
-		
 		\newpage
 
 		\section{Protótipo exploratório}
 		
-		\subsection{Proposta para página inicial do sistema}
-
-		Como referido anteriormente a página inicial deve conter ligações para as seguintes páginas:
-			\begin{itemize}
-				\item Página de Login;
-				\item Página de Registo;
-				\item Opção de entrar como guest.
-				\subitem Ao escrever "Entrar como convidado" invés de "Entrar como guest", foi uma opção tomada para que se mantenha a consistência desta interface. 
-			\end{itemize}
+		\subsection{APP}
 		
+		\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/app/1}
+\caption{Vista inicial.}
+\label{fig:1}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/app/2png}
+\caption{Escolha da escola.}
+\label{fig:2png}
+\end{figure}
+
 \newpage
 
-		
-		\section{Plano de Projeto}
-		
-		\subsection{Escalonamento dos casos de utilização}
-		\begin{table}[h]
+\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/app/3}
+\caption{Escolha do professor.}
+\label{fig:3}
+\end{figure}
 
-		
-			\begin{tabular}{|c|c|}
-				\hline Nome do Use Case & Prioridade \\ 
-				\hline &  \\ 
-				\hline &  \\ 
-				\hline &   \\ 
-				\hline &  \\ 
-				\hline 
-			\end{tabular} 
-			\caption{Escalonamento dos casos de utilização }
-		\end{table}	
-		\newpage	
-		\section{Modelo Estrutural}
-		
-		\subsection{Organização da Solução}
-		
+\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/app/4}
+\caption{Escolha da turma.}
+\label{fig:4}
+\end{figure}
+
+\newpage
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/app/5}
+\caption{Escolha do aluno.}
+\label{fig:5}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/app/6}
+\caption{Escolha do modo (realizar ou corrigir teste).}
+\label{fig:6}
+\end{figure}
+
+\newpage
+
+\subsection{Modo de realização de teste}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/app/14}
+\caption{Escolha da disciplina.}
+\label{fig:14}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/app/8}
+\caption{Escolha do tipo de teste.}
+\label{fig:8}
+\end{figure}
+\newpage
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/app/9}
+\caption{Formulário de selecção dos testes a realizar}
+\label{fig:9}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/app/10}
+\caption{Vista de um teste de leitura}
+\label{fig:10}
+\end{figure}
+
+\newpage
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/app/12}
+\caption{Realizar Auto-avaliação}
+\label{fig:12}
+\end{figure}
+
+\newpage
+
+\subsection{Modo de Correcção de teste}
 
 
+\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/app/17}
+\caption{Ouvir a gravação submetida pelo aluno.}
+\label{fig:17}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/app/18}
+\caption{Seleccionar das palavras erradas.}
+\label{fig:18}
+\end{figure}
+
+\newpage
+
+		\subsection{Sistema de Informação}
 		
-		\subsection{Tipos de Utilizadores}
+		\begin{figure}[h]
+			\centering
+			\includegraphics[width=0.8\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/1}
+			\caption{Página inicial após autenticação.}
+			\label{fig:1}
+		\end{figure}
 		
-		Foi tomada a opção de recorrer a um utilizador deste e daquele tipo pois...
+		\begin{figure}[h]
+			\centering
+			\includegraphics[width=0.8\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/2}
+			\caption{Vista com lista de professores.}
+			\label{fig:2}
+		\end{figure}
+\newpage
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.8\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/3}
+		\caption{Vista com lista de turmas.}
+		\label{fig:3}
+	\end{figure}
+
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.8\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/4}
+		\caption{Vista com lista de alunos.}
+		\label{fig:4}
+	\end{figure}
+	
+	\newpage
+		\begin{figure}[h]
+			\centering
+			\includegraphics[width=0.8\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/6}
+			\caption{Vista com listagem de testes.}
+			\label{fig:5}
+		\end{figure}
 		
+		\subsubsection{Criação de Testes}
+		
+		\begin{figure}[h]
+				\centering
+				\includegraphics[width=0.8\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/7}
+				\caption{Vista com tipos de teste a inserir.}
+				\label{fig:5}
+			\end{figure}	
+			
 		\newpage
+
+			\begin{figure}[h]
+						\centering
+						\includegraphics[width=0.8\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/8}
+						\caption{Formulário de criação de teste multimédia (misto)}
+						\label{fig:5}
+					\end{figure}
+	
+		
+				\begin{figure}[h]
+					\centering
+					\includegraphics[width=0.8\linewidth]{./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/9}
+					\caption{Formulário de criação de teste leitura}
+					\label{fig:5}
+				\end{figure}
+
+		
 		
 		\section{Anexos}
 		

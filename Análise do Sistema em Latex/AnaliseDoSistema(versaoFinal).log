@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.19)  9 JUN 2014 14:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.19)  9 JUN 2014 15:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -297,7 +297,17 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(./AnaliseDoSistema(versaoFinal).aux)
+(./AnaliseDoSistema(versaoFinal).aux
+
+LaTeX Warning: Label `fig:1' multiply defined.
+
+
+LaTeX Warning: Label `fig:3' multiply defined.
+
+
+LaTeX Warning: Label `fig:4' multiply defined.
+
+)
 \openout1 = `AnaliseDoSistema(versaoFinal).aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -312,8 +322,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
-
-(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+ (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count89
 \scratchdimen=\dimen111
@@ -534,64 +543,35 @@ Overfull \hbox (20.43306pt too wide) in paragraph at lines 229--255
  []
 
 [11]
-! Argument of \language@active@arg" has an extra }.
-<inserted text> 
-                \par 
-l.262 ...diagramasAnaliseSistemas/Realizar Teste"}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
+<./diagramasAnaliseSistemas/RealizarTeste.png, id=52, 358.4592pt x 365.6862pt>
+File: ./diagramasAnaliseSistemas/RealizarTeste.png Graphic file (type png)
 
-Runaway argument?
-! Paragraph ended before \language@active@arg" was complete.
-<to be read again> 
-                   \par 
-l.262 ...diagramasAnaliseSistemas/Realizar Teste"}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-
-! LaTeX Error: File `"./diagramasAnaliseSistemas/Realizar Teste"' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.262 ...diagramasAnaliseSistemas/Realizar Teste"}
-                                                  
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 275--275
+<use ./diagramasAnaliseSistemas/RealizarTeste.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/RealizarTeste.png used on i
+nput line 263.
+(pdftex.def)             Requested size: 276.00105pt x 281.57924pt.
+ [12 <./diagramasAnaliseSistemas/RealizarTeste.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 278--278
 []\OT1/cmr/m/n/10 Pr^^Se-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
 []\OT1/cmr/m/n/10 Sequ^encia
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
 \OT1/cmr/m/n/10 t^^S^^Ppica dos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--288
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 []\OT1/cmr/m/n/10 Sequ^encias
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--288
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 \OT1/cmr/m/n/10 al-ter-na-ti-vas
  []
 
@@ -601,30 +581,466 @@ Underfull \hbox (badness 10000) in paragraph at lines 293--293
  []
 
 
-Overfull \hbox (20.43306pt too wide) in paragraph at lines 270--297
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 273--297
 [][] 
  []
 
-[13] [14]
-Underfull \hbox (badness 4739) in paragraph at lines 345--345
-[]\OT1/cmr/m/n/10 UserId[]rementente, Use-
+[13]
+<./diagramasAnaliseSistemas/EfectuarAutoAvaliacao.png, id=61, 304.2567pt x 322.
+3242pt>
+File: ./diagramasAnaliseSistemas/EfectuarAutoAvaliacao.png Graphic file (type p
+ng)
+ <use ./diagramasAnaliseSistemas/EfectuarAutoAvaliacao.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/EfectuarAutoAvaliacao.png u
+sed on input line 305.
+(pdftex.def)             Requested size: 276.00105pt x 292.39577pt.
+ [14 <./diagramasAnaliseSistemas/EfectuarAutoAvaliacao.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]\OT1/cmr/m/n/10 Pr^^Se-
  []
 
 
-Overfull \hbox (102.22237pt too wide) in paragraph at lines 338--349
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
+[]\OT1/cmr/m/n/10 Sequ^encia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
+\OT1/cmr/m/n/10 t^^S^^Ppica dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+[]\OT1/cmr/m/n/10 Sequ^encias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+\OT1/cmr/m/n/10 al-ter-na-ti-vas
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 332--333
+[]\OT1/cmr/m/n/10 O uti-li-za-dor n~ao se-lec-ci-ona ne-nhum teste e aborta a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
+[]\OT1/cmr/m/n/10 Requisitos
+ []
+
+
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 316--342
 [][] 
  []
 
-[15] [16] [17] [18] [19] (./AnaliseDoSistema(versaoFinal).aux)
+[15]
+<./diagramasAnaliseSistemas/BackOfficecriartestedeLeitura.png, id=69, 492.1587p
+t x 278.9622pt>
+File: ./diagramasAnaliseSistemas/BackOfficecriartestedeLeitura.png Graphic file
+ (type png)
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+<use ./diagramasAnaliseSistemas/BackOfficecriartestedeLeitura.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/BackOfficecriartestedeLeitu
+ra.png used on input line 351.
+(pdftex.def)             Requested size: 241.49895pt x 136.88422pt.
+
+<./diagramasAnaliseSistemas/testemultimedia.png, id=70, 490.7133pt x 286.1892pt
+>
+File: ./diagramasAnaliseSistemas/testemultimedia.png Graphic file (type png)
+ <use ./diagramasAnaliseSistemas/testemultimedia.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/testemultimedia.png used on
+ input line 358.
+(pdftex.def)             Requested size: 241.49895pt x 140.84528pt.
+ [16 <./diagramasAnaliseSistemas/BackOfficecriartestedeLeitura.png> <./diagrama
+sAnaliseSistemas/testemultimedia.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
+[]\OT1/cmr/m/n/10 Pr^^Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+[]\OT1/cmr/m/n/10 Sequ^encia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+\OT1/cmr/m/n/10 t^^S^^Ppica dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--385
+[]\OT1/cmr/m/n/10 Sequ^encias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--385
+\OT1/cmr/m/n/10 al-ter-na-ti-vas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--394
+[]\OT1/cmr/m/n/10 Requisitos
+ []
+
+
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 370--398
+[][] 
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+[]\OT1/cmr/m/n/10 Pr^^Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--409
+[]\OT1/cmr/m/n/10 Sequ^encia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--409
+\OT1/cmr/m/n/10 t^^S^^Ppica dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
+[]\OT1/cmr/m/n/10 Sequ^encias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
+\OT1/cmr/m/n/10 al-ter-na-ti-vas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
+[]\OT1/cmr/m/n/10 Requisitos
+ []
+
+
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 403--431
+[][] 
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+[]\OT1/cmr/m/n/10 Pr^^Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
+[]\OT1/cmr/m/n/10 Sequ^encia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
+\OT1/cmr/m/n/10 t^^S^^Ppica dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--457
+[]\OT1/cmr/m/n/10 Sequ^encias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--457
+\OT1/cmr/m/n/10 al-ter-na-ti-vas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+[]\OT1/cmr/m/n/10 Requisitos
+ []
+
+
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 440--469
+[][] 
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
+[]\OT1/cmr/m/n/10 Pr^^Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+[]\OT1/cmr/m/n/10 Sequ^encia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+\OT1/cmr/m/n/10 t^^S^^Ppica dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--497
+[]\OT1/cmr/m/n/10 Sequ^encias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--497
+\OT1/cmr/m/n/10 al-ter-na-ti-vas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+[]\OT1/cmr/m/n/10 Requisitos
+ []
+
+
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 479--509
+[][] 
+ []
+
+[20]
+<./diagramasAnaliseSistemas/modeloDeDadosPersistente.png, id=89, 891.33pt x 783
+.92876pt>
+File: ./diagramasAnaliseSistemas/modeloDeDadosPersistente.png Graphic file (typ
+e png)
+ <use ./diagramasAnaliseSistemas/modeloDeDadosPersistente.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/modeloDeDadosPersistente.pn
+g used on input line 523.
+(pdftex.def)             Requested size: 413.99895pt x 364.11641pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 523--524
+ [][] 
+ []
+
+[21 <./diagramasAnaliseSistemas/modeloDeDadosPersistente.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/1.png, id=93, 426.8748pt 
+x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/1.png Graphic file (
+type png)
+ <use ./diagramasAnaliseSistemas/prototipoExploratorio/app/1.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/1
+.png used on input line 536.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/2png.png, id=94, 426.8748
+pt x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/2png.png Graphic fil
+e (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/2png.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/2
+png.png used on input line 543.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+ [22 <./diagramasAnaliseSistemas/prototipoExploratorio/app/1.png> <./diagramasA
+naliseSistemas/prototipoExploratorio/app/2png.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/3.png, id=100, 426.8748pt
+ x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/3.png Graphic file (
+type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/3.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/3
+.png used on input line 552.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/4.png, id=101, 426.8748pt
+ x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/4.png Graphic file (
+type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/4.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/4
+.png used on input line 559.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+ [23 <./diagramasAnaliseSistemas/prototipoExploratorio/app/3.png> <./diagramasA
+naliseSistemas/prototipoExploratorio/app/4.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/5.png, id=107, 426.8748pt
+ x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/5.png Graphic file (
+type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/5.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/5
+.png used on input line 568.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/6.png, id=108, 426.8748pt
+ x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/6.png Graphic file (
+type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/6.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/6
+.png used on input line 575.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+ [24 <./diagramasAnaliseSistemas/prototipoExploratorio/app/5.png> <./diagramasA
+naliseSistemas/prototipoExploratorio/app/6.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/14.png, id=114, 426.8748p
+t x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/14.png Graphic file 
+(type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/14.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/1
+4.png used on input line 586.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/8.png, id=115, 426.8748pt
+ x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/8.png Graphic file (
+type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/8.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/8
+.png used on input line 593.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+ [25 <./diagramasAnaliseSistemas/prototipoExploratorio/app/14.png> <./diagramas
+AnaliseSistemas/prototipoExploratorio/app/8.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/9.png, id=122, 426.8748pt
+ x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/9.png Graphic file (
+type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/9.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/9
+.png used on input line 601.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/10.png, id=123, 426.8748p
+t x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/10.png Graphic file 
+(type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/10.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/1
+0.png used on input line 608.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+ [26 <./diagramasAnaliseSistemas/prototipoExploratorio/app/9.png> <./diagramasA
+naliseSistemas/prototipoExploratorio/app/10.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/12.png, id=129, 426.8748p
+t x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/12.png Graphic file 
+(type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/12.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/1
+2.png used on input line 617.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+ [27 <./diagramasAnaliseSistemas/prototipoExploratorio/app/12.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/17.png, id=134, 426.8748p
+t x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/17.png Graphic file 
+(type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/17.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/1
+7.png used on input line 629.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/18.png, id=135, 426.8748p
+t x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/18.png Graphic file 
+(type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/18.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/1
+8.png used on input line 636.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+ [28 <./diagramasAnaliseSistemas/prototipoExploratorio/app/17.png> <./diagramas
+AnaliseSistemas/prototipoExploratorio/app/18.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/1.png, id=1
+41, 697.60625pt x 511.9125pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/1.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/1.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/1.png used on input line 647.
+(pdftex.def)             Requested size: 276.00105pt x 202.53519pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/2.png, id=1
+42, 1272.755pt x 756.8275pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/2.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/2.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/2.png used on input line 654.
+(pdftex.def)             Requested size: 276.00105pt x 164.11208pt.
+
+[29 <./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/1.png> 
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/2.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/3.png, id=1
+46, 1273.75874pt x 690.58pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/3.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/3.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/3.png used on input line 661.
+(pdftex.def)             Requested size: 276.00105pt x 149.6309pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/4.png, id=1
+47, 1263.72125pt x 754.82pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/4.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/4.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/4.png used on input line 668.
+(pdftex.def)             Requested size: 276.00105pt x 164.85156pt.
+
+[30 <./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/3.png> 
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/4.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/6.png, id=1
+51, 1254.6875pt x 628.3475pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/6.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/6.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/6.png used on input line 676.
+(pdftex.def)             Requested size: 276.00105pt x 138.2177pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/7.png, id=1
+52, 1263.72125pt x 769.87625pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/7.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/7.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/7.png used on input line 685.
+(pdftex.def)             Requested size: 276.00105pt x 168.13982pt.
+
+[31 <./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/6.png> 
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/7.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/8.png, id=1
+57, 1260.71pt x 765.86125pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/8.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/8.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/8.png used on input line 694.
+(pdftex.def)             Requested size: 276.00105pt x 167.66028pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/9.png, id=1
+58, 1262.7175pt x 772.8875pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/9.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/9.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/9.png used on input line 702.
+(pdftex.def)             Requested size: 276.00105pt x 168.939pt.
+
+[32 <./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/8.png> 
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/9.png>]
+(./AnaliseDoSistema(versaoFinal).aux)
+
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2434 strings out of 493315
- 33711 string characters out of 6137904
- 100551 words of memory out of 5000000
- 5852 multiletter control sequences out of 15000+600000
+ 2566 strings out of 493315
+ 40989 string characters out of 6137904
+ 100775 words of memory out of 5000000
+ 5964 multiletter control sequences out of 15000+600000
  7895 words of font info for 28 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,10n,28p,416b,267s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -634,10 +1050,10 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
 local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on AnaliseDoSistema(versaoFinal).pdf (19 pages, 605486 bytes).
+Output written on AnaliseDoSistema(versaoFinal).pdf (32 pages, 4133093 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
+ 183 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 
