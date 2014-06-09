@@ -1,0 +1,1059 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.19)  9 JUN 2014 15:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**AnaliseDoSistema(versaoFinal).tex
+(./AnaliseDoSistema(versaoFinal).tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip43
+\aftertitleunit=\skip44
+\ttl@plus=\dimen103
+\ttl@minus=\dimen104
+\ttl@toksa=\toks14
+\titlewidth=\dimen105
+\titlewidthlast=\dimen106
+\titlewidthfirst=\dimen107
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2013/05/16 v3.9f The Babel package
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2013/05/16 v3.9f Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen110
+)
+Package babel Info: Making " an active character on input line 145.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(./AnaliseDoSistema(versaoFinal).aux
+
+LaTeX Warning: Label `fig:1' multiply defined.
+
+
+LaTeX Warning: Label `fig:3' multiply defined.
+
+
+LaTeX Warning: Label `fig:4' multiply defined.
+
+)
+\openout1 = `AnaliseDoSistema(versaoFinal).aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+ (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen111
+\scratchbox=\box27
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen112
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 24.
+
+[1
+
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./AnaliseDoSistema(versaoFinal).toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `AnaliseDoSistema(versaoFinal).toc'.
+
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+[3]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 61.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 61.
+
+Overfull \hbox (19.3888pt too wide) in paragraph at lines 82--87
+[] 
+ []
+
+[4]
+Overfull \hbox (3.5554pt too wide) in paragraph at lines 93--99
+[] 
+ []
+
+
+Overfull \hbox (27.24994pt too wide) in paragraph at lines 101--107
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+[5] <./diagramasAnaliseSistemas/APP.png, id=24, 422.0568pt x 372.9132pt>
+File: ./diagramasAnaliseSistemas/APP.png Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/APP.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/APP.png used on input line 
+128.
+(pdftex.def)             Requested size: 276.00105pt x 243.87584pt.
+ [6 <./diagramasAnaliseSistemas/APP.png>] <./diagramasAnaliseSistemas/BackOffic
+e.png, id=30, 646.0938pt x 466.8642pt>
+File: ./diagramasAnaliseSistemas/BackOffice.png Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/BackOffice.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/BackOffice.png used on inpu
+t line 151.
+(pdftex.def)             Requested size: 276.00105pt x 199.44403pt.
+ [7 <./diagramasAnaliseSistemas/BackOffice.png>]
+<./diagramasAnaliseSistemas/CorrigirTeste.png, id=36, 344.0052pt x 517.4532pt>
+File: ./diagramasAnaliseSistemas/CorrigirTeste.png Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/CorrigirTeste.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/CorrigirTeste.png used on i
+nput line 180.
+(pdftex.def)             Requested size: 241.49895pt x 363.26488pt.
+ [8 <./diagramasAnaliseSistemas/CorrigirTeste.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+[]\OT1/cmr/m/n/10 Pr^^Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
+[]\OT1/cmr/m/n/10 Sequ^encia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
+\OT1/cmr/m/n/10 t^^S^^Ppica dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+[]\OT1/cmr/m/n/10 Sequ^encias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+\OT1/cmr/m/n/10 al-ter-na-ti-vas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
+[]\OT1/cmr/m/n/10 Requisitos
+ []
+
+
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 187--214
+[][] 
+ []
+
+[9]
+<./diagramasAnaliseSistemas/PrepararRealizacaodoTeste.png, id=44, 286.1892pt x 
+322.3242pt>
+File: ./diagramasAnaliseSistemas/PrepararRealizacaodoTeste.png Graphic file (ty
+pe png)
+ <use ./diagramasAnaliseSistemas/PrepararRealizacaodoTeste.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/PrepararRealizacaodoTeste.p
+ng used on input line 221.
+(pdftex.def)             Requested size: 276.00105pt x 310.84909pt.
+
+[10 <./diagramasAnaliseSistemas/PrepararRealizacaodoTeste.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+[]\OT1/cmr/m/n/10 Pr^^Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+[]\OT1/cmr/m/n/10 Sequ^encia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+\OT1/cmr/m/n/10 t^^S^^Ppica dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+[]\OT1/cmr/m/n/10 Sequ^encias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+\OT1/cmr/m/n/10 al-ter-na-ti-vas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
+[]\OT1/cmr/m/n/10 Requisitos
+ []
+
+
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 229--255
+[][] 
+ []
+
+[11]
+<./diagramasAnaliseSistemas/RealizarTeste.png, id=52, 358.4592pt x 365.6862pt>
+File: ./diagramasAnaliseSistemas/RealizarTeste.png Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/RealizarTeste.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/RealizarTeste.png used on i
+nput line 263.
+(pdftex.def)             Requested size: 276.00105pt x 281.57924pt.
+ [12 <./diagramasAnaliseSistemas/RealizarTeste.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 278--278
+[]\OT1/cmr/m/n/10 Pr^^Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
+[]\OT1/cmr/m/n/10 Sequ^encia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
+\OT1/cmr/m/n/10 t^^S^^Ppica dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+[]\OT1/cmr/m/n/10 Sequ^encias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+\OT1/cmr/m/n/10 al-ter-na-ti-vas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+[]\OT1/cmr/m/n/10 Requisitos
+ []
+
+
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 273--297
+[][] 
+ []
+
+[13]
+<./diagramasAnaliseSistemas/EfectuarAutoAvaliacao.png, id=61, 304.2567pt x 322.
+3242pt>
+File: ./diagramasAnaliseSistemas/EfectuarAutoAvaliacao.png Graphic file (type p
+ng)
+ <use ./diagramasAnaliseSistemas/EfectuarAutoAvaliacao.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/EfectuarAutoAvaliacao.png u
+sed on input line 305.
+(pdftex.def)             Requested size: 276.00105pt x 292.39577pt.
+ [14 <./diagramasAnaliseSistemas/EfectuarAutoAvaliacao.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]\OT1/cmr/m/n/10 Pr^^Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
+[]\OT1/cmr/m/n/10 Sequ^encia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
+\OT1/cmr/m/n/10 t^^S^^Ppica dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+[]\OT1/cmr/m/n/10 Sequ^encias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+\OT1/cmr/m/n/10 al-ter-na-ti-vas
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 332--333
+[]\OT1/cmr/m/n/10 O uti-li-za-dor n~ao se-lec-ci-ona ne-nhum teste e aborta a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
+[]\OT1/cmr/m/n/10 Requisitos
+ []
+
+
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 316--342
+[][] 
+ []
+
+[15]
+<./diagramasAnaliseSistemas/BackOfficecriartestedeLeitura.png, id=69, 492.1587p
+t x 278.9622pt>
+File: ./diagramasAnaliseSistemas/BackOfficecriartestedeLeitura.png Graphic file
+ (type png)
+
+<use ./diagramasAnaliseSistemas/BackOfficecriartestedeLeitura.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/BackOfficecriartestedeLeitu
+ra.png used on input line 351.
+(pdftex.def)             Requested size: 241.49895pt x 136.88422pt.
+
+<./diagramasAnaliseSistemas/testemultimedia.png, id=70, 490.7133pt x 286.1892pt
+>
+File: ./diagramasAnaliseSistemas/testemultimedia.png Graphic file (type png)
+ <use ./diagramasAnaliseSistemas/testemultimedia.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/testemultimedia.png used on
+ input line 358.
+(pdftex.def)             Requested size: 241.49895pt x 140.84528pt.
+ [16 <./diagramasAnaliseSistemas/BackOfficecriartestedeLeitura.png> <./diagrama
+sAnaliseSistemas/testemultimedia.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
+[]\OT1/cmr/m/n/10 Pr^^Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+[]\OT1/cmr/m/n/10 Sequ^encia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+\OT1/cmr/m/n/10 t^^S^^Ppica dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--385
+[]\OT1/cmr/m/n/10 Sequ^encias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--385
+\OT1/cmr/m/n/10 al-ter-na-ti-vas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--394
+[]\OT1/cmr/m/n/10 Requisitos
+ []
+
+
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 370--398
+[][] 
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+[]\OT1/cmr/m/n/10 Pr^^Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--409
+[]\OT1/cmr/m/n/10 Sequ^encia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--409
+\OT1/cmr/m/n/10 t^^S^^Ppica dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
+[]\OT1/cmr/m/n/10 Sequ^encias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
+\OT1/cmr/m/n/10 al-ter-na-ti-vas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--427
+[]\OT1/cmr/m/n/10 Requisitos
+ []
+
+
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 403--431
+[][] 
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+[]\OT1/cmr/m/n/10 Pr^^Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
+[]\OT1/cmr/m/n/10 Sequ^encia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
+\OT1/cmr/m/n/10 t^^S^^Ppica dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--457
+[]\OT1/cmr/m/n/10 Sequ^encias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--457
+\OT1/cmr/m/n/10 al-ter-na-ti-vas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+[]\OT1/cmr/m/n/10 Requisitos
+ []
+
+
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 440--469
+[][] 
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
+[]\OT1/cmr/m/n/10 Pr^^Se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+[]\OT1/cmr/m/n/10 Sequ^encia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+\OT1/cmr/m/n/10 t^^S^^Ppica dos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--497
+[]\OT1/cmr/m/n/10 Sequ^encias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--497
+\OT1/cmr/m/n/10 al-ter-na-ti-vas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+[]\OT1/cmr/m/n/10 Requisitos
+ []
+
+
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 479--509
+[][] 
+ []
+
+[20]
+<./diagramasAnaliseSistemas/modeloDeDadosPersistente.png, id=89, 891.33pt x 783
+.92876pt>
+File: ./diagramasAnaliseSistemas/modeloDeDadosPersistente.png Graphic file (typ
+e png)
+ <use ./diagramasAnaliseSistemas/modeloDeDadosPersistente.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/modeloDeDadosPersistente.pn
+g used on input line 523.
+(pdftex.def)             Requested size: 413.99895pt x 364.11641pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 523--524
+ [][] 
+ []
+
+[21 <./diagramasAnaliseSistemas/modeloDeDadosPersistente.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/1.png, id=93, 426.8748pt 
+x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/1.png Graphic file (
+type png)
+ <use ./diagramasAnaliseSistemas/prototipoExploratorio/app/1.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/1
+.png used on input line 536.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/2png.png, id=94, 426.8748
+pt x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/2png.png Graphic fil
+e (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/2png.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/2
+png.png used on input line 543.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+ [22 <./diagramasAnaliseSistemas/prototipoExploratorio/app/1.png> <./diagramasA
+naliseSistemas/prototipoExploratorio/app/2png.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/3.png, id=100, 426.8748pt
+ x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/3.png Graphic file (
+type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/3.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/3
+.png used on input line 552.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/4.png, id=101, 426.8748pt
+ x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/4.png Graphic file (
+type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/4.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/4
+.png used on input line 559.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+ [23 <./diagramasAnaliseSistemas/prototipoExploratorio/app/3.png> <./diagramasA
+naliseSistemas/prototipoExploratorio/app/4.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/5.png, id=107, 426.8748pt
+ x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/5.png Graphic file (
+type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/5.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/5
+.png used on input line 568.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/6.png, id=108, 426.8748pt
+ x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/6.png Graphic file (
+type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/6.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/6
+.png used on input line 575.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+ [24 <./diagramasAnaliseSistemas/prototipoExploratorio/app/5.png> <./diagramasA
+naliseSistemas/prototipoExploratorio/app/6.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/14.png, id=114, 426.8748p
+t x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/14.png Graphic file 
+(type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/14.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/1
+4.png used on input line 586.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/8.png, id=115, 426.8748pt
+ x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/8.png Graphic file (
+type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/8.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/8
+.png used on input line 593.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+ [25 <./diagramasAnaliseSistemas/prototipoExploratorio/app/14.png> <./diagramas
+AnaliseSistemas/prototipoExploratorio/app/8.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/9.png, id=122, 426.8748pt
+ x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/9.png Graphic file (
+type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/9.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/9
+.png used on input line 601.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/10.png, id=123, 426.8748p
+t x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/10.png Graphic file 
+(type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/10.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/1
+0.png used on input line 608.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+ [26 <./diagramasAnaliseSistemas/prototipoExploratorio/app/9.png> <./diagramasA
+naliseSistemas/prototipoExploratorio/app/10.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/12.png, id=129, 426.8748p
+t x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/12.png Graphic file 
+(type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/12.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/1
+2.png used on input line 617.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+ [27 <./diagramasAnaliseSistemas/prototipoExploratorio/app/12.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/17.png, id=134, 426.8748p
+t x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/17.png Graphic file 
+(type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/17.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/1
+7.png used on input line 629.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/app/18.png, id=135, 426.8748p
+t x 240.4182pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/app/18.png Graphic file 
+(type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/app/18.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/app/1
+8.png used on input line 636.
+(pdftex.def)             Requested size: 345.0pt x 194.31946pt.
+ [28 <./diagramasAnaliseSistemas/prototipoExploratorio/app/17.png> <./diagramas
+AnaliseSistemas/prototipoExploratorio/app/18.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/1.png, id=1
+41, 697.60625pt x 511.9125pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/1.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/1.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/1.png used on input line 647.
+(pdftex.def)             Requested size: 276.00105pt x 202.53519pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/2.png, id=1
+42, 1272.755pt x 756.8275pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/2.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/2.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/2.png used on input line 654.
+(pdftex.def)             Requested size: 276.00105pt x 164.11208pt.
+
+[29 <./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/1.png> 
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/2.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/3.png, id=1
+46, 1273.75874pt x 690.58pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/3.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/3.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/3.png used on input line 661.
+(pdftex.def)             Requested size: 276.00105pt x 149.6309pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/4.png, id=1
+47, 1263.72125pt x 754.82pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/4.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/4.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/4.png used on input line 668.
+(pdftex.def)             Requested size: 276.00105pt x 164.85156pt.
+
+[30 <./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/3.png> 
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/4.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/6.png, id=1
+51, 1254.6875pt x 628.3475pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/6.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/6.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/6.png used on input line 676.
+(pdftex.def)             Requested size: 276.00105pt x 138.2177pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/7.png, id=1
+52, 1263.72125pt x 769.87625pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/7.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/7.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/7.png used on input line 685.
+(pdftex.def)             Requested size: 276.00105pt x 168.13982pt.
+
+[31 <./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/6.png> 
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/7.png>]
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/8.png, id=1
+57, 1260.71pt x 765.86125pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/8.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/8.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/8.png used on input line 694.
+(pdftex.def)             Requested size: 276.00105pt x 167.66028pt.
+
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/9.png, id=1
+58, 1262.7175pt x 772.8875pt>
+File: ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/9.png 
+Graphic file (type png)
+
+<use ./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/9.png>
+Package pdftex.def Info: ./diagramasAnaliseSistemas/prototipoExploratorio/siste
+maInformacao/9.png used on input line 702.
+(pdftex.def)             Requested size: 276.00105pt x 168.939pt.
+
+[32 <./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/8.png> 
+<./diagramasAnaliseSistemas/prototipoExploratorio/sistemaInformacao/9.png>]
+(./AnaliseDoSistema(versaoFinal).aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2566 strings out of 493315
+ 40989 string characters out of 6137904
+ 100775 words of memory out of 5000000
+ 5964 multiletter control sequences out of 15000+600000
+ 7895 words of font info for 28 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 38i,10n,28p,416b,267s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on AnaliseDoSistema(versaoFinal).pdf (32 pages, 4133093 bytes).
+PDF statistics:
+ 183 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
+
