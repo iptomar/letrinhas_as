@@ -23,16 +23,17 @@
 \contentsline {subsection}{\numberline {2.4}Descri\IeC {\c c}\IeC {\~a}o dos Casos de Utiliza\IeC {\c c}\IeC {\~a}o - APP}{8}
 \contentsline {subsubsection}{\numberline {2.4.1}Corrigir teste}{8}
 \contentsline {subsubsection}{\numberline {2.4.2}Preparar realiza\IeC {\c c}\IeC {\~a}o do teste para o aluno}{10}
-\contentsline {section}{\numberline {3}Modelo do Dom\IeC {\'\i }nio}{11}
-\contentsline {subsection}{\numberline {3.1}Vis\IeC {\~a}o geral}{11}
-\contentsline {subsection}{\numberline {3.2}Op\IeC {\c c}\IeC {\~o}es tomadas}{11}
-\contentsline {section}{\numberline {4}Modelo de dados persistente}{12}
-\contentsline {subsection}{\numberline {4.1}Descri\IeC {\c c}\IeC {\~a}o do modelo de dados}{12}
-\contentsline {section}{\numberline {5}Prot\IeC {\'o}tipo explorat\IeC {\'o}rio}{13}
-\contentsline {subsection}{\numberline {5.1}Proposta para p\IeC {\'a}gina inicial do sistema}{13}
-\contentsline {section}{\numberline {6}Plano de Projeto}{14}
-\contentsline {subsection}{\numberline {6.1}Escalonamento dos casos de utiliza\IeC {\c c}\IeC {\~a}o}{14}
-\contentsline {section}{\numberline {7}Modelo Estrutural}{15}
-\contentsline {subsection}{\numberline {7.1}Organiza\IeC {\c c}\IeC {\~a}o da Solu\IeC {\c c}\IeC {\~a}o}{15}
-\contentsline {subsection}{\numberline {7.2}Tipos de Utilizadores}{15}
-\contentsline {section}{\numberline {8}Anexos}{16}
+\contentsline {subsubsection}{\numberline {2.4.3}Efectuar teste}{12}
+\contentsline {section}{\numberline {3}Modelo do Dom\IeC {\'\i }nio}{14}
+\contentsline {subsection}{\numberline {3.1}Vis\IeC {\~a}o geral}{14}
+\contentsline {subsection}{\numberline {3.2}Op\IeC {\c c}\IeC {\~o}es tomadas}{14}
+\contentsline {section}{\numberline {4}Modelo de dados persistente}{15}
+\contentsline {subsection}{\numberline {4.1}Descri\IeC {\c c}\IeC {\~a}o do modelo de dados}{15}
+\contentsline {section}{\numberline {5}Prot\IeC {\'o}tipo explorat\IeC {\'o}rio}{16}
+\contentsline {subsection}{\numberline {5.1}Proposta para p\IeC {\'a}gina inicial do sistema}{16}
+\contentsline {section}{\numberline {6}Plano de Projeto}{17}
+\contentsline {subsection}{\numberline {6.1}Escalonamento dos casos de utiliza\IeC {\c c}\IeC {\~a}o}{17}
+\contentsline {section}{\numberline {7}Modelo Estrutural}{18}
+\contentsline {subsection}{\numberline {7.1}Organiza\IeC {\c c}\IeC {\~a}o da Solu\IeC {\c c}\IeC {\~a}o}{18}
+\contentsline {subsection}{\numberline {7.2}Tipos de Utilizadores}{18}
+\contentsline {section}{\numberline {8}Anexos}{19}
