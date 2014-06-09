@@ -1,0 +1,41 @@
+\select@language {portuguese}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{3}
+\contentsline {subsection}{\numberline {1.1}Vis\IeC {\~a}o Geral do Sistema}{3}
+\contentsline {subsubsection}{\numberline {1.1.1}Aplica\IeC {\c c}\IeC {\~a}o para tablet}{3}
+\contentsline {subsubsection}{\numberline {1.1.2}Sistema de Informa\IeC {\c c}\IeC {\~a}o}{3}
+\contentsline {subsection}{\numberline {1.2}Objetivos}{3}
+\contentsline {subsection}{\numberline {1.3}Cliente}{3}
+\contentsline {subsection}{\numberline {1.4}Fontes e Material de Refer\IeC {\^e}ncia}{4}
+\contentsline {subsubsection}{\numberline {1.4.1}Aplica\IeC {\c c}\IeC {\~o}es para grava\IeC {\c c}\IeC {\~a}o de voz}{4}
+\contentsline {subsubsection}{\numberline {1.4.2}Aplica\IeC {\c c}\IeC {\~o}es de tradu\IeC {\c c}\IeC {\~a}o(Voz para texto)}{4}
+\contentsline {subsubsection}{\numberline {1.4.3}Software open source}{4}
+\contentsline {subsection}{\numberline {1.5}Gloss\IeC {\'a}rio}{4}
+\contentsline {section}{\numberline {2}Modelo de Casos de Utiliza\IeC {\c c}\IeC {\~a}o}{5}
+\contentsline {subsection}{\numberline {2.1}Atores}{5}
+\contentsline {subsubsection}{\numberline {2.1.1}Aplica\IeC {\c c}\IeC {\~a}o}{5}
+\contentsline {subsubsection}{\numberline {2.1.2}Sistema de Informa\IeC {\c c}\IeC {\~a}o}{5}
+\contentsline {subsection}{\numberline {2.2}Vis\IeC {\~a}o geral}{5}
+\contentsline {subsection}{\numberline {2.3}Diagramas de Casos de Utiliza\IeC {\c c}\IeC {\~a}o}{6}
+\contentsline {subsubsection}{\numberline {2.3.1}Casos de utiliza\IeC {\c c}\IeC {\~a}o da aplica\IeC {\c c}\IeC {\~a}o}{6}
+\contentsline {paragraph}{\numberline {2.3.1.1}Diagrama de CaU do ator professor e aluno}{6}
+\contentsline {subsubsection}{\numberline {2.3.2}Casos de utiliza\IeC {\c c}\IeC {\~a}o do Sistema de Informa\IeC {\c c}\IeC {\~a}o}{7}
+\contentsline {paragraph}{\numberline {2.3.2.1}Diagrama de CaU do ator administrador e professor}{7}
+\contentsline {subsection}{\numberline {2.4}Descri\IeC {\c c}\IeC {\~a}o dos Casos de Utiliza\IeC {\c c}\IeC {\~a}o - APP}{8}
+\contentsline {subsubsection}{\numberline {2.4.1}Corrigir teste}{8}
+\contentsline {subsubsection}{\numberline {2.4.2}Preparar realiza\IeC {\c c}\IeC {\~a}o do teste para o aluno}{10}
+\contentsline {subsubsection}{\numberline {2.4.3}Efectuar teste}{12}
+\contentsline {subsubsection}{\numberline {2.4.4}Efectuar Auto-avalia\IeC {\c c}\IeC {\~a}o}{14}
+\contentsline {subsection}{\numberline {2.5}Descri\IeC {\c c}\IeC {\~a}o dos Casos de Utiliza\IeC {\c c}\IeC {\~a}o - Sistema de Informa\IeC {\c c}\IeC {\~a}o}{16}
+\contentsline {subsubsection}{\numberline {2.5.1}Criar Novo Teste}{16}
+\contentsline {subsubsection}{\numberline {2.5.2}Criar registo de professor}{18}
+\contentsline {subsubsection}{\numberline {2.5.3}Criar registo de aluno}{19}
+\contentsline {subsubsection}{\numberline {2.5.4}Criar escola}{20}
+\contentsline {section}{\numberline {3}Modelo de dados persistente}{21}
+\contentsline {subsection}{\numberline {3.1}Modelo de dados persistente - Sistema de Informa\IeC {\c c}\IeC {\~a}o}{21}
+\contentsline {section}{\numberline {4}Prot\IeC {\'o}tipo explorat\IeC {\'o}rio}{22}
+\contentsline {subsection}{\numberline {4.1}APP}{22}
+\contentsline {subsection}{\numberline {4.2}Modo de realiza\IeC {\c c}\IeC {\~a}o de teste}{25}
+\contentsline {subsection}{\numberline {4.3}Modo de Correc\IeC {\c c}\IeC {\~a}o de teste}{28}
+\contentsline {subsection}{\numberline {4.4}Sistema de Informa\IeC {\c c}\IeC {\~a}o}{29}
+\contentsline {subsubsection}{\numberline {4.4.1}Cria\IeC {\c c}\IeC {\~a}o de Testes}{31}
+\contentsline {section}{\numberline {5}Anexos}{32}
