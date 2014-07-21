@@ -1,9 +1,0 @@
-- guardar os cancelamentos por parte do aluno
-- impossibilitar retocessos ao aluno durante a realização do teste através de pin
-- No tipo de teste Leitura de palavras, aumentar o espaçamento entre as colunas
-- Acrescentar o controlo de tempo em relação ao teste de listas
-- possibilitar a comparação de relatórios de testes corrigidos (com o ultimo)
-- 
-
--
-
